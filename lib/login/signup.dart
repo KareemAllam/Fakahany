@@ -3,7 +3,6 @@ import 'package:fakahany/Get_Location.dart';
 import 'package:fakahany/HomeScreen.dart';
 import 'package:fakahany/SecondSplash.dart';
 import 'package:fakahany/login/services/usermanagment.dart';
-import 'package:fakahany/login/signIn.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
