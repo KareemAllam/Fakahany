@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097654189013",
+    "firebase_url": "https://fakahany-6dd8e.firebaseio.com",
+    "project_id": "fakahany-6dd8e",
+    "storage_bucket": "fakahany-6dd8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097654189013:android:76edf690d0842e1d7e1b5c",
+        "android_client_info": {
+          "package_name": "com.example.fakahany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097654189013-u6qp7188fifpggouehtbrc2md8jgfojj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9xrLyqKeMMcaD1uQTmi6ifSZWHQ8XckU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097654189013-u6qp7188fifpggouehtbrc2md8jgfojj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
